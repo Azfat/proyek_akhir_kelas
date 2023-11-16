@@ -49,7 +49,7 @@ def create_byweathersit_df(df):
 
 # belum by windspeed, hum temp
 
-all_df = pd.read_csv("https://raw.githubusercontent.com/Azfat/proyek_akhir_kelas/main/day_data.csv")
+all_df = pd.read_csv("https://raw.githubusercontent.com/Azfat/proyek_akhir_kelas/main/dashboard/day_data.csv")
 
 # Menampilkan nama-nama kolom di DataFrame
 
